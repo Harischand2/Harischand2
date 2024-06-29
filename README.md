@@ -1,7 +1,7 @@
 # Hi there 👋! My name is Adrian Harischand 😎 
 ### 🌎 I am a passionate Full Stack Developer based in New York, USA 📍
 ### Teck Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,express,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,react,express,flask)](https://skillicons.dev)
 
 ### Socials
 
